@@ -11,4 +11,9 @@ public class HelloController {
 		return "Greetings from Spring Boot!";
 	}
 
+	@GetMapping("/hello")
+	public String indexHello() {
+		return "Puszi Milka!";
+	}
+
 }
