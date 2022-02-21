@@ -16,3 +16,8 @@ dependency-reduced-pom.xml
 README.html
 .idea
 *.iml
+/out/artifacts/gs_spring_boot_war_exploded/WEB-INF/applicationContext.xml
+/out/artifacts/gs_spring_boot_war_exploded/WEB-INF/dispatcher-servlet.xml
+/out/artifacts/gs_spring_boot_war_exploded/index.jsp
+/out/artifacts/gs_spring_boot_war_exploded/META-INF/MANIFEST.MF
+/out/artifacts/gs_spring_boot_war_exploded/WEB-INF/web.xml
